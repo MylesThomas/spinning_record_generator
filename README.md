@@ -1,4 +1,4 @@
-"# spinning_record_generator" 
+# Spinning Record Generator
 
 Useful links for finishing this project:
 - https://transloadit.com/blog/2021/04/vinyl-gif/
